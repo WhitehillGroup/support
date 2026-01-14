@@ -1,7 +1,7 @@
 ---
 icon: tools
 label: Configuration
-order: 95
+order: 2,
 tags: [Configuration]
 image: /static/assets/whg_headbanner.png
 authors: 
@@ -165,6 +165,7 @@ Example:
     )
 end
 ```
+
 !!!warning
 This example is provided for demonstration purposes only.
 
@@ -176,13 +177,17 @@ Without the model, the API call will fail.
 
 ===
 
-!!!success Configuration Complete!
+!!!success
+Configuration Complete!
 
 Not working? Make sure you followed the syntax, or visit our [FAQ Page](/faq.md) for help, or contact Whitehill Support via our [Discord server](https://discord.whitehill.group/) for further assistance.
+!!!
 
-===
+---
 
 !!!danger
+Outdated Software
+
 CafePOS Lite is outdated, and support is unlikely to be able to help.
 
 Do you know of any bugs or new configuration options in recent updates? Send them to <@1222929536392630309> on Discord.
