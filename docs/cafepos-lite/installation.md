@@ -4,12 +4,9 @@ label: Installation
 tags: [Installation, Legacy]
 image: /static/assets/whg_headbanner.png
 authors: 
-  - name: cbgle
-    link: https://github.com/cbgle
-    avatar: https://avatars.githubusercontent.com/u/126525625
-  - name: NotAlex7331
-    link: https://github.com/NotAlex7331
-    avatar: https://avatars.githubusercontent.com/u/8365663
+  - name: louis_vx
+    link: https://github.com/louis-vx
+    avatar: https://avatars.githubusercontent.com/u/193327234?v=4
 categories:
   - JSM
   - CafePOS
