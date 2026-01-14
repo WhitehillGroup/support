@@ -16,7 +16,7 @@ categories:
   - Lite
 ---
 
-!!!alert No Longer On-Sale
+!!!warning No Longer On-Sale
 This product is no longer for sale and can only be used by users who acquired the license before it was discontinued.
 !!!
 
@@ -50,6 +50,6 @@ CafePOS Lite was released in 2022 and has been on sale ever since. It was a basi
 - You need a valid license.
 - You need basic editing/scripting and Roblox Studio knowledge.
 
-!!!info
+!!! INFO
 These requirements are based on archived and community knowledge and may be incomplete.
 !!!
