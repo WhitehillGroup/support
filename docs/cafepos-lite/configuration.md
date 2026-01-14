@@ -15,7 +15,7 @@ categories:
 ---
 # Configuring Your CafePOS Lite
 
-![](/static/assets/banners/whg_cafeposlite.png)
+![](/static/assets/banners/whg_cafeposliteinstall.png)
 
 !!!ghost
 All configuration information is from a YouTube video by AlexG_1337 and may be outdated as the video was published in 2022.
