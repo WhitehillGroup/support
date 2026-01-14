@@ -17,12 +17,16 @@ categories:
 
 ![](/static/assets/banners/whg_cafeposliteinstall.png)
 
-!!!ghost
-All configuration information is from a YouTube video by AlexG_1337 and may be outdated as the video was published in 2022.
-!!!
-
 !!!warning
 This page assumes the user has basic knowledge of the Roblox scripting language, Luau.
+!!!
+
+!!!danger
+Outdated Software
+
+CafePOS Lite is outdated, and support is unlikely to be able to help.
+
+Do you know of any bugs or new configuration options in recent updates? Send them to <@1222929536392630309> on Discord.
 !!!
 
 ---
@@ -185,10 +189,6 @@ Not working? Make sure you followed the syntax, or visit our [FAQ Page](/faq.md)
 
 ---
 
-!!!danger
-Outdated Software
-
-CafePOS Lite is outdated, and support is unlikely to be able to help.
-
-Do you know of any bugs or new configuration options in recent updates? Send them to <@1222929536392630309> on Discord.
+!!!ghost
+All configuration information is from a YouTube video by AlexG_1337 and may be outdated as the video was published in 2022.
 !!!
