@@ -17,7 +17,7 @@ categories:
 
 ![](/static/assets/banners/whg_cafeposlite.png)
 
-!!!alert
+!!!ghost
 All configuration information is from a YouTube video by AlexG_1337 and may be outdated as the video was published in 2022.
 !!!
 
@@ -79,7 +79,7 @@ Example:
 ["TillNo"] = 1,
 ```
 
-!!!alert
+!!!warning
 Setting this is recommended. (I have no information on whether POS will not work with two or more identical Till IDs.)
 !!!
 ===
@@ -180,7 +180,9 @@ Without the model, the API call will fail.
 
 Not working? Make sure you followed the syntax, or visit our [FAQ Page](/faq.md) for help, or contact Whitehill Support via our [Discord server](https://discord.whitehill.group/) for further assistance.
 
-!!!warning
+===
+
+!!!danger
 CafePOS Lite is outdated, and support is unlikely to be able to help.
 
 Do you know of any bugs or new configuration options in recent updates? Send them to <@1222929536392630309> on Discord.
