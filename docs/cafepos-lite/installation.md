@@ -3,6 +3,7 @@ icon: download
 label: Installation
 tags: [Installation, Legacy]
 image: /static/assets/whg_headbanner.png
+order: 1,
 authors: 
   - name: louis_vx
     link: https://github.com/louis-vx
