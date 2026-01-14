@@ -26,7 +26,7 @@ Outdated Software
 
 CafePOS Lite is outdated, and support is unlikely to be able to help.
 
-Do you know of any bugs or new configuration options in recent updates? Send them to <@1222929536392630309> on Discord.
+If you discover **new configuration options** or improvements in recent updates, you can **extend this configuration file** accordingly.
 !!!
 
 ---
