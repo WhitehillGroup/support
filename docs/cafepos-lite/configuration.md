@@ -1,7 +1,8 @@
 ---
-icon: configuration
+icon: tools
 label: Configuration
-tags: [Configuration, Legacy]
+order: 95
+tags: [Configuration]
 image: /static/assets/whg_headbanner.png
 authors: 
   - name: louis_vx
