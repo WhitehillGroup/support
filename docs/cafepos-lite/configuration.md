@@ -1,13 +1,12 @@
-P---
-icon: tools
+---
+icon: configuration
 label: Configuration
-order: 95
-tags: [Configuration]
+tags: [Configuration, Legacy]
 image: /static/assets/whg_headbanner.png
 authors: 
-    - name: louis_vx
-      link: https://github.com/louis-vx
-      avatar: https://avatars.githubusercontent.com/u/193327234?v=4
+  - name: louis_vx
+    link: https://github.com/louis-vx
+    avatar: https://avatars.githubusercontent.com/u/193327234?v=4
 categories:
   - JSM
   - CafePOS
