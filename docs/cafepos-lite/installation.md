@@ -38,7 +38,7 @@ The following video demonstrates the original installation and setup process of 
 
 ## Overview
 
-CafePOS Lite was released in 2022 and has been on sale ever since. It was a basic POS system and the predecessor to the still-in-development JSM CafePOS. It had basic functions such as item scanning, payment administrator functions, and HR call management.
+CafePOS Lite was released in 2022 and has been on sale ever since. It was a basic POS system and the predecessor to the still-in-development JSM CafePOS. It had basic functions such as item scanning, payment administrator functions, and HR call management. Sales were discontinued around the year 2023.
 
 ---
 
@@ -49,5 +49,5 @@ CafePOS Lite was released in 2022 and has been on sale ever since. It was a basi
 - You need basic editing/scripting and Roblox Studio knowledge.
 
 !!! INFO
-These requirements are based on archived and community knowledge and may be incomplete.
+These requirements are based on archived and community knowledge and may be incomplete. (It is not guaranteed that all data is exactly correct.)
 !!!
