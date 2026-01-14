@@ -16,6 +16,10 @@ categories:
   - Lite
 ---
 
+# CafePOS Lite Installation
+
+![](/static/assets/banners/whg_cafeposliteinstall.png)
+
 !!!warning No Longer On-Sale
 This product is no longer for sale and can only be used by users who acquired the license before it was discontinued.
 !!!
@@ -23,10 +27,6 @@ This product is no longer for sale and can only be used by users who acquired th
 !!!danger Important Notice
 This product has been discontinued and is no longer supported. The information provided may be incomplete or outdated. Please refrain from contacting support regarding this product, as dedicated assistance is no longer available.
 !!!
-
-# CafePOS Lite Installation
-
-![](/static/assets/banners/whg_cafeposliteinstall.png)
 
 ---
 
