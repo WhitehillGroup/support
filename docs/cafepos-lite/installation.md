@@ -1,9 +1,9 @@
 ---
 icon: download
 label: Installation
-tags: [Installation, Legacy]
+tags: [installation]
 image: /static/assets/whg_headbanner.png
-order: 1,
+order: 2,
 authors: 
   - name: louis_vx
     link: https://github.com/louis-vx
@@ -22,32 +22,50 @@ categories:
 This product is no longer for sale and can only be used by users who acquired the license before it was discontinued.
 !!!
 
-!!!danger Important Notice
-This product has been discontinued and is no longer supported. The information provided may be incomplete or outdated. Please refrain from contacting support regarding this product, as dedicated assistance is no longer available.
+!!!
+Before getting started, download the latest version of this product from [Axon](https://axon.whitehill.group).
+!!!
+
+!!!warning
+Ensure HTTP services are enabled before proceeding.
+This can be done by visiting _Home > Game Settings > Security_ within Studio.
+For more information visit the Roblox [Creator Dashboard](https://create.roblox.com/docs/studio/game-settings#security).
 !!!
 
 ---
 
-## Setup Video
+## Downloading & Inserting
+---
 
-The following video demonstrates the original installation and setup process of **CafePOS Lite**.
+=== Download Your POS Files
+**Step 1**:
 
-[!embed allowFullScreen="false"](https://www.youtube.com/embed/t0c9IcMBF74?si=QsAEuvJA1Xcy1glr)
+Enter axon.whitehill.group in your browser and log in, or click [here](https://axon.whitehill.group) to be redirected.
 
 ---
 
-## Overview
+**Step 2**:
 
-CafePOS Lite was released in 2022 and has been on sale ever since. It was a basic POS system and the predecessor to the still-in-development JSM CafePOS. It had basic functions such as item scanning, payment administrator functions, and HR call management. Sales were discontinued around the year 2023.
+Go to the "My Products" tab and select the JSM CafePOS Lite. Now click Download, and the download should start. This shouldn't take long.
 
 ---
 
-## System Requirements
+**Step 3**:
 
-- You need to enable HTTP requests.
-- You need a valid license.
-- You need basic editing/scripting and Roblox Studio knowledge.
+After the download is complete, open Roblox Studio and drag or paste your file into the game. To drag, select your file and drag it into the Roblox Studio tab. To insert, select your workspace, right-click, and choose "Insert" -> "Import Roblox Model" and select the CafePOS Lite file. Finally, click "Open," and a CafePOS Lite model should appear in the workspace.
 
-!!! INFO
-These requirements are based on archived and community knowledge and may be incomplete. (It is not guaranteed that all data is exactly correct.)
-!!!
+===
+
+=== Place & Configure
+**Place**:
+
+After successfully inserting the model, select it in the workspace. Arrows for dragging and moving it should appear. If they don't, select "Home" in the top bar and then "Move." The arrows should now appear. You can now move your POS terminal in the game. Move it to its desired position and rotate it if needed.
+
+---
+
+**Configure**:
+
+!!!info **Configuration**
+To configure your POS terminal, go to [Configuration](/cafepos-lite/configuration.md).
+
+===
