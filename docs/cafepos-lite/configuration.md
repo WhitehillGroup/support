@@ -1,7 +1,7 @@
 ---
 icon: tools
 label: Configuration
-order: 2,
+order: 3,
 tags: [Configuration]
 image: /static/assets/whg_headbanner.png
 authors: 
@@ -21,9 +21,7 @@ categories:
 This page assumes the user has basic knowledge of the Roblox scripting language, Luau.
 !!!
 
-!!!danger
-Outdated Software
-
+!!!danger  **Outdated Software**
 CafePOS Lite is outdated, and support is unlikely to be able to help.
 
 If you discover **new configuration options** or improvements in recent updates, you can **extend this configuration file** accordingly.
@@ -69,11 +67,10 @@ Your default configuration module, found under `JSM | CafePOS-Lite Terminal` **-
 
 ---
 
-## Syntax
+## Main Settings
 ---
 
-### TillNo
-=== `number`
+=== Till Number
 Enter the POS terminal number. Usually required for the HR call.
 
 ---
@@ -84,13 +81,11 @@ Example:
 ```
 
 !!!warning
-Setting this is recommended. (I have no information on whether POS will not work with two or more identical Till IDs.)
+Setting this is recommended. (Theres no available information on whether POS will not work with two or more identical Till IDs.)
 !!!
-===
 
-### OEM
-=== `string`
-The name of the cafe that is displayed on the log-in display or in the lower menu bar.
+=== POS Terminal Name
+The name of the cafe that is displayed on the log-in display and in the lower menu bar.
 
 ---
 
@@ -100,8 +95,13 @@ Example:
 ```
 ===
 
-### HR Call
-=== `string`
+---
+
+## HR Call Settings
+
+---
+
+=== HR Call
 Set this to your preference: whether the HR call should be active by default or deactivated.
 
 ---
@@ -113,8 +113,7 @@ Example:
 
 ---
 
-### Default Notifications
-=== `number`
+=== Default Notifications
 Enable this for normal Roblox Core notifications. Disabling is recommended for custom actions.
 
 ---
@@ -124,8 +123,7 @@ Example:
 ["DisableNotifications"] = true,
 ```
 
-## HR Call Group
-=== `number`
+=== HR Call Group
 Set this to the group that should receive the message or action during an HR call.
 
 ---
@@ -135,8 +133,7 @@ Example:
  ["Group"] = 5150453
 ```
 
-## HR Call Group Rank
-=== `number`
+=== HR Call Group Rank
 Set this to the minimum group rank that should receive the message or action during an HR call.
 
 ---
@@ -148,8 +145,7 @@ Example:
 
 ---
 
-## Custom Call Actions
-=== `string?`
+=== Custom Call Actions
 Custom call actions such as an Applegate VoCoVo message via the VoCoVo API.
 
 ---
