@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.822066221343">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.822087482362">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -32,12 +32,12 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../../resources/css/retype.css?v=3.11.0.822066221343" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.822087482362" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.822066221343" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.822087482362" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.822066221343" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.11.0.822066221343" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.822087482362" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.11.0.822087482362" defer></script>
 
     <!-- do not modify this pls, i beg you -->
     <!-- change ths css in /docs/static/whitehill.css -->
@@ -273,12 +273,6 @@
     </div>
 </div>
 <hr>
-<doc-anchor-target id="systemconfig">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#systemconfig">#</doc-anchor-trigger>
-        <span>SystemConfig</span>
-    </h2>
-</doc-anchor-target>
 <p>Your default configuration, found in <code v-pre>JSM | Intelli-Sense EAS</code> <strong>-&gt;</strong> <code v-pre>JSM | Controller</code> <strong>-&gt;</strong> <code v-pre>Settings</code>, is structured as follows:</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre translate="no" class="language-lua"><code v-pre class="language-lua">--[[ 
@@ -307,6 +301,13 @@ local Settings = {
 }
 return Settings</code></pre>
 </doc-codeblock></div>
+<hr>
+<doc-anchor-target id="general-settings">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#general-settings">#</doc-anchor-trigger>
+        <span>General Settings</span>
+    </h2>
+</doc-anchor-target>
 <doc-anchor-target id="sitename">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#sitename">#</doc-anchor-trigger>
@@ -328,8 +329,8 @@ return Settings</code></pre>
         <span>ClockEnabled</span>
     </h3>
 </doc-anchor-target>
-<doc-panel id="bool">
-    <template #title><code v-pre>bool</code></template>
+<doc-panel id="boolean">
+    <template #title><code v-pre>boolean</code></template>
 <p>Whether to display your game&#x27;s time.</p>
 <hr>
 <p>Example:</p>
@@ -386,13 +387,13 @@ Set to the SCO v3.1 root folder if you plan on using shared accounts.</p>
         <span>AutomaticIntegrations</span>
     </h3>
 </doc-anchor-target>
-<doc-panel id="-string-bool-">
-    <template #title><code v-pre>{ [string]: bool }</code></template>
+<doc-panel id="-string-boolean-">
+    <template #title><code v-pre>{ [string]: boolean }</code></template>
 <ul>
-<li><p><strong>Applegate_VoCoVo</strong>: (<code v-pre>bool</code>)
+<li><p><strong>Applegate_VoCoVo</strong>: (<code v-pre>boolean</code>)
 Integration with VoCoVo by Applegate. Set to <code v-pre>false</code> if not using.</p>
 </li>
-<li><p><strong>Kybo_Walvo</strong>: (<code v-pre>bool</code>)
+<li><p><strong>Kybo_Walvo</strong>: (<code v-pre>boolean</code>)
 Integration with Walvo by Kybo. Set to <code v-pre>false</code> if not using.</p>
 </li>
 </ul>

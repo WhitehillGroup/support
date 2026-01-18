@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.822066221343">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.822087482362">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
 
     <!-- Primary Meta Tags -->
-    <title>SCO API | Whitehill Support</title>
-    <meta name="title" content="SCO API | Whitehill Support">
+    <title>SelfCheckout API | Whitehill Support</title>
+    <meta name="title" content="SelfCheckout API | Whitehill Support">
     <meta name="description" content="What are the SCOs up to now?">
 
     <!-- Canonical -->
@@ -19,25 +19,25 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://support.whitehill.group/sco/api/">
-    <meta property="og:title" content="SCO API | Whitehill Support">
+    <meta property="og:title" content="SelfCheckout API | Whitehill Support">
     <meta property="og:description" content="What are the SCOs up to now?">
     <meta property="og:image" content="https://support.whitehill.group/static/assets/whg_headbanner.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://support.whitehill.group/sco/api/">
-    <meta property="twitter:title" content="SCO API | Whitehill Support">
+    <meta property="twitter:title" content="SelfCheckout API | Whitehill Support">
     <meta property="twitter:description" content="What are the SCOs up to now?">
     <meta property="twitter:image" content="https://support.whitehill.group/static/assets/whg_headbanner.png">
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../../resources/css/retype.css?v=3.11.0.822066221343" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.822087482362" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.822066221343" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.822087482362" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.822066221343" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.11.0.822066221343" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.822087482362" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.11.0.822087482362" defer></script>
 
     <!-- do not modify this pls, i beg you -->
     <!-- change ths css in /docs/static/whitehill.css -->
@@ -228,10 +228,10 @@
                                 <!-- Rendered if sidebar right is enabled -->
                                 <div id="retype-sidebar-right-toggle"></div>
                                 <!-- Page content  -->
-<doc-anchor-target id="sco-api" class="break-words">
+<doc-anchor-target id="selfcheckout-api" class="break-words">
     <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#sco-api">#</doc-anchor-trigger>
-        <span>SCO API</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#selfcheckout-api">#</doc-anchor-trigger>
+        <span>SelfCheckout API</span>
     </h1>
 </doc-anchor-target>
 <div class="-mt-3 mb-12 flex flex-wrap text-sm text-gray-400 dark:text-dark-350 items-center print:justify-center">
@@ -446,6 +446,40 @@ end</code></pre>
 <ul>
 <li><strong>If you <code v-pre>return true</code>:</strong> The checkout will proceed with the transaction.</li>
 <li><strong>If you <code v-pre>return false</code>:</strong> It will deny the transaction.</li>
+</ul>
+        </div>
+    </div>
+</div>
+<hr>
+<doc-anchor-target id="locale">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#locale">#</doc-anchor-trigger>
+        <span>Locale</span>
+    </h2>
+</doc-anchor-target>
+<p>Located in each SCO Terminal, the Locale is used for controlling the TriLight(s).</p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre translate="no" class="language-lua"><code v-pre class="language-lua">workspace[&quot;JSM | SelfCheckout V3&quot;].Terminals[&quot;JSM | SeflServ 7350&quot;].Locale.Event:Connect(function (Protocol: string, Action: string): ()
+    warn(Protocol, Action);
+end);</code></pre>
+</doc-codeblock></div>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-light"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-light" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>What do these mean?</h5>
+<ul>
+<li><strong>Protocol</strong>: (<code v-pre>string</code>) The protocol to be used.</li>
+<li><strong>Action</strong>: (<code v-pre>string</code>) Action to take, ie: change TriLight colour.</li>
 </ul>
         </div>
     </div>
