@@ -1,5 +1,5 @@
 ---
-icon: code
+icon: question
 label: Troubleshooting
 order: 90
 tags: [Troubleshooting]
