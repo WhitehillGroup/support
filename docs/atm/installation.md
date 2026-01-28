@@ -34,7 +34,7 @@ For more information visit the Roblox [Creator Dashboard](https://create.roblox.
 
 === 1. Insert your file.
 To import your file, simply drag the product file into Roblox Studio once your game is fully loaded. 
-Alternatively, you can use the Explorer context menu by right-clicking and selecting **Insert > Insert From File**.
+Alternatively, you can use the Explorer context menu by right-clicking and selecting **Insert > Import Roblox Model**.
 ===
 
 === 2. Placement & Positioning.
