@@ -12,7 +12,7 @@ categories:
   - JSM
   - Intelli-Sense EAS
 ---
-# Installing You Intelli-Sense EAS
+# Installing Your Intelli-Sense EAS
 
 ![](/static/assets/banners/whg_easinstall.png)
 
