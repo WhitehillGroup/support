@@ -8,6 +8,9 @@ authors:
   - name: roaxcean
     link: https://github.com/roaxcean
     avatar: https://avatars.githubusercontent.com/u/219159259
+  - name: Dunbars123
+    link: https://github.com/michaeldun123
+    avatar: https://avatars.githubusercontent.com/u/42805814
 categories:
   - Whitehill
   - DWProx
@@ -489,7 +492,7 @@ Example:
 ```
 
 !!!danger Important Note
-This is strictly dor demo purposes, and **will allow** anyone to play your doors.
+This is strictly for demo purposes, and **will allow** anyone to play your doors.
 !!!
 
 
@@ -562,6 +565,7 @@ Example:
 ===
 
 ---
+
 
 !!!success Configuration Complete!
 
