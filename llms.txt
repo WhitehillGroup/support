@@ -1,0 +1,82 @@
+﻿#  | Whitehill Support
+
+> Whitehill Support provides resources to help you troubleshoot, configure, and install our products.
+
+- [Welcome to Whitehill Support!](https://support.whitehill.group/index.md): Welcome to Whitehill Support!
+- [Terms Of Use](https://support.whitehill.group/terms.md): What you can, and what you can't.
+- [Frequently Asked Questions](https://support.whitehill.group/faq.md): Check out our frequently asked questions, the answer you're looking for might already be here.
+
+## Acel AOV
+
+- [Acel AOV Installation](https://support.whitehill.group/acel/installation.md): This product has been discontinued and is no longer supported. The information provided may be incomplete or outdated. Please refrain from contacting support regarding this product, as dedicated assistance is no longer available.
+- [Acel AOV API](https://support.whitehill.group/acel/api.md): This product has been discontinued and is no longer supported. The information provided may be incomplete or outdated. Please refrain from contacting support regarding this product, as dedicated assistance is no longer available.
+
+## AutoPro
+
+- [AutoPro Installation](https://support.whitehill.group/autopro/installation.md): AutoPro, an automatic door system designed for convenience and efficiency, providing seamless access control for any environment.
+- [Configuring Your AutoPro](https://support.whitehill.group/autopro/configuration.md): Need your doors open faster? Yes, we have that.
+- [Updating Your AutoPro](https://support.whitehill.group/autopro/updating.md): Keep your doors opening, keep them updated.
+- [AutoPro API](https://support.whitehill.group/autopro/api.md): Make the doors open by themselves. Or don't.
+
+## CafePOS Lite
+
+- [CafePOS Lite Installation](https://support.whitehill.group/cafepos-lite/installation.md): This product has been discontinued and is no longer supported. The information provided may be incomplete or outdated. Please refrain from contacting support regarding this product, as dedicated assistance is no longer available.
+
+## DWProx Net2+
+
+- [Installing Net2+](https://support.whitehill.group/dwpnet2/installation.md): Our most advanced Access Control System.
+- [Configuring Your Net2+](https://support.whitehill.group/dwpnet2/configuration.md): Welcome to customization heaven. (#2)
+- [Configuring Your Net2+ Readers](https://support.whitehill.group/dwpnet2/readerconfig.md): Welcome to customization heaven. (#3)
+- [Updating Your Net2+](https://support.whitehill.group/dwpnet2/updating.md): Keep the doors from closing in on you.
+- [Net2+ API](https://support.whitehill.group/dwpnet2/api.md): Control madness, again? Of course.
+
+## DWProx v3
+
+- [DWProx V3 Installation](https://support.whitehill.group/dwpv3/installation.md): Our free Access Control System.
+- [Configuring Your V3](https://support.whitehill.group/dwpv3/configuration.md): Welcome to customization heaven. (#2)
+- [Configuring Your V3 Readers](https://support.whitehill.group/dwpv3/readerconfig.md): Welcome to customization heaven. (#3)
+- [Updating Your V3](https://support.whitehill.group/dwpv3/updating.md): Keep the doors from closing in on you (again.)
+- [DWProx V3 API](https://support.whitehill.group/dwpv3/api.md): Control madness? Check.
+
+## Freestyle Drinks
+
+- [Freestyle Installation](https://support.whitehill.group/freestyle/installation.md): Flexible drinks dispenser, that's Freestyle.
+- [Configuring Your Freestyle](https://support.whitehill.group/freestyle/configuration.md): Changing the drinks up? Welcome to the flavour alley.
+- [Updating Your Freestyle](https://support.whitehill.group/freestyle/updating.md): Keeping your machines clean and working.
+
+## Intelli-Sense EAS
+
+- [Installing Your Intelli-Sense EAS](https://support.whitehill.group/eas/installation.md): Powerful simplicity. Catch shoplifters with ease.
+- [Configuring Your EAS](https://support.whitehill.group/eas/configuration.md): Mini-modding right here.
+- [Updating Intelli-Sense EAS](https://support.whitehill.group/eas/updating.md): Keep detecting. Keep up your EAS.
+- [Intelli-Sense EAS API](https://support.whitehill.group/eas/api.md): Beep-beep-beep, who stole something!?
+
+## SelfServ ATM
+
+- [SelfServ ATM Installation](https://support.whitehill.group/atm/installation.md): JSM ATM, now with 3 different terminals and additional features. Our best ATM system to-date, and a must-have for the JSM SCO owners.
+- [Configuring Your SelfServ ATM](https://support.whitehill.group/atm/configuration.md): Want to customize your banknotes? This is the place.
+- [Updating Your SelfServ ATM](https://support.whitehill.group/atm/updating.md): Want to keep your ATM on latest software? Right this way.
+- [ATM API](https://support.whitehill.group/atm/api.md): I can feel the cash flowing though the code.
+
+## SelfServ SCO
+
+- [SelfServ SCO Installation](https://support.whitehill.group/sco/installation.md): JSM SCO, the best of the best.
+- [Add Products to your SCO](https://support.whitehill.group/sco/products.md): Mmm... scanning...
+- [Add Cards to your SCO](https://support.whitehill.group/sco/cards.md): Even more scanning, but for staff. Or you're paying..? Or you're a loyal member???
+- [Configuring Your SelfServ SCO](https://support.whitehill.group/sco/configuration.md): Welcome to customization heaven.
+- [Configuring Your SelfServ Terminal](https://support.whitehill.group/sco/laneconfiguration.md): Welcome to a localized customization heaven.
+- [Configuring Your SCO Accounts](https://support.whitehill.group/sco/accounts.md): Welcome to customization heaven.
+- [Updating Your SelfServ SCO](https://support.whitehill.group/sco/updating.md): Keep the Self Checkouts flying.
+- [SelfCheckout API](https://support.whitehill.group/sco/api.md): What are the SCOs up to now?
+
+### Scan & Shop
+
+- [Scan & Shop Installation](https://support.whitehill.group/sco/sas/installation.md): Elevate your Self Checkout experience with Scan & Shop.
+- [Updating Scan & Shop](https://support.whitehill.group/sco/sas/updating.md): Keep the Self Checkouts flying.
+- [Scan & Shop API](https://support.whitehill.group/sco/sas/api.md): Wait... Scan and Shop API?
+
+## Turnstiles
+
+- [KONE Turnstiles Installation](https://support.whitehill.group/turnstiles/installation.md): Turnstiles made to last. Effectiveness in simplicity.
+- [Configuring Your Turnstiles](https://support.whitehill.group/turnstiles/configuration.md): Make them call a lift, or change which card is authorized... Among others!
+- [KONE Turnstiles API](https://support.whitehill.group/turnstiles/api.md): Can you lock the turnstiles? After the alarm goes off? And easily? Yes, yes, and yes!

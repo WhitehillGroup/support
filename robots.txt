@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://support.whitehill.group/sitemap.xml.gz
+Sitemap: https://support.whitehill.group/sitemap.xml
