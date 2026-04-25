@@ -105,7 +105,7 @@ Example:
 ### StartMode
 === `number`
 Start-up mode.
-Controls how barcodes are handled at checkout:
+Controls how the SCO boots at game start-up:
 
 * `1` — Plays full startup sequence, Lane is automatically open.
 * `2` — Plays full startup sequence, Requires a member of staff to open the lane.
