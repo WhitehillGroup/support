@@ -31,7 +31,7 @@ Check out our frequently asked questions, the answer you're looking for might al
 No. For your products to work in games owned by Communities (formerly Groups), your account needs to be the owner. 
 
 ==- What does Pre-Order mean?
-The product is not yet available to be downloaded, buy can be "pre-ordered", meaning you purchase it while it's still in development, usually at a discounted price.
+The product is not yet available to be downloaded, but can be "pre-ordered", meaning you purchase it while it's still in development, usually at a discounted price.
 
 ==- How can I access my products?
 You can purchase and download all of our products easily through our user-friendly dashboard. Visit [Axon](https://axon.whitehill.group) to get started.

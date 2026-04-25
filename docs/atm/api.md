@@ -12,7 +12,7 @@ categories:
   - JSM
   - SelfServ ATM
 ---
-# AutoPro API
+# ATM API
 
 ![](/static/assets/banners/whg_atmapi.png)
 
@@ -24,9 +24,9 @@ This is a technical page, and assumes familiarity with Roblox Studio's Explorer,
 
 ---
 
-AutoPro is our most advanced automatic door system designed for convenience and efficiency, providing seamless access control for any environment. Each AutoPro instance has a singular `API` [BindableFunction](https://create.roblox.com/docs/reference/engine/classes/BindableFunction).
+SelfServ ATM is our best companion ATM for the SelfServ SCO, a must for every shopkeeper.
 
-Located directly in the root folder after **game startup**, the API allows you to interface easily with the doors.
+Located directly in the Integrations folder, the Bank Intergration allows you to interface easily with the ATMs.
 
 ## Syntax
 

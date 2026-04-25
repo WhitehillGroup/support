@@ -45,7 +45,7 @@ Freestyle machines don't require to be placed in a folder to work, thus enabling
 !!!
 ===
 
-=== 3. Configure your ATMs.
+=== 3. Configure your Freestyle.
 While the Freestyle machines are designed to work immediately, we recommend reviewing the configuration module found under `JSM | Freestyle Drinks Machine` **->** `Controller` **->** `DrinkData` to perfect your experience.
 
 !!!info

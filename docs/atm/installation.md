@@ -45,7 +45,7 @@ Any misplaced models **will not** work, keeping them in their respective folders
 !!!
 ===
 
-=== 3. Configure your ATMs.
+=== 3. Configure your ATM.
 While the ATM terminals are designed to work immediately, we recommend reviewing the configuration module found under `JSM | ATM V3` **->** `SystemConfig` to perfect your experience.
 
 !!!info
