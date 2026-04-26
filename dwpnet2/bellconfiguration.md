@@ -1,4 +1,4 @@
-# Configuring Your Net2+ Buttons
+# Configuring Your Net2+ Bells
 
 ![](/static/assets/banners/whg_net2config.png)
 

@@ -28,7 +28,7 @@
 - [Configuring Your Net2+](https://support.whitehill.group/dwpnet2/configuration.md): Welcome to customization heaven. (#2)
 - [Configuring Your Net2+ Readers](https://support.whitehill.group/dwpnet2/readerconfig.md): Beep beep beeeeep, these readers need an ethernet connection.
 - [Configuring Your Net2+ Buttons](https://support.whitehill.group/dwpnet2/buttonconfig.md): Presses the button anyway.
-- [Configuring Your Net2+ Buttons](https://support.whitehill.group/dwpnet2/bellconfiguration.md): Chimes obnoxiously in your ears.
+- [Configuring Your Net2+ Bells](https://support.whitehill.group/dwpnet2/bellconfiguration.md): Chimes obnoxiously in your ears.
 - [Updating Your Net2+](https://support.whitehill.group/dwpnet2/updating.md): Keep the doors from closing in on you.
 - [Net2+ API](https://support.whitehill.group/dwpnet2/api.md): Control madness, again? Of course.
 
