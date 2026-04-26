@@ -8,6 +8,10 @@ Welcome to customization heaven. (#2)
 This page assumes the user has basic knowledge of the Roblox scripting language, Luau.
 !!!
 
+!!!danger
+The default doors that ship with DWProx use a **different** configuration module. Make sure you edit the actual V3 configuration module.
+!!!
+
 ---
 
 Your configuration module, found under each V3 door `DWProx` **->** `Settings`, is structured as follows:

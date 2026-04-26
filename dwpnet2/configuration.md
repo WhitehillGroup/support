@@ -8,6 +8,10 @@ Welcome to customization heaven. (#2)
 This page assumes the user has basic knowledge of the Roblox scripting language, Luau.
 !!!
 
+!!!danger
+The default doors that ship with DWProx use a **different** configuration module. Make sure you edit the actual Net+ configuration module.
+!!!
+
 ---
 
 Your Paxton configuration module, found under each Net2+ door `DWProx Net2+` **->** `PaxtonSettings`, is structured as follows:

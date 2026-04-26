@@ -8,6 +8,10 @@ What are the SCOs up to now?
 This is a technical page, and assumes familiarity with Roblox Studio's Explorer, alongside with Roblox's scripting language, Luau.
 !!!
 
+!!!warning
+Support **will not** be given on the SCO API usage, you're entirely on your own.
+!!!
+
 ---
 
 Our Self Checkouts represent Whitehill's latest advancement in Self-Checkout technology. This page provides an overview of the `NetworkEvent` [BindableEvent](https://create.roblox.com/docs/reference/engine/classes/BindableEvent), and go over the `JSM-ExternalAPI` [BindableFunction](https://create.roblox.com/docs/reference/engine/classes/BindableFunction) as well as `JSM-BankIntegration` [BindableFunction](https://create.roblox.com/docs/reference/engine/classes/BindableFunction).

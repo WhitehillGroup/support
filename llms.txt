@@ -26,7 +26,9 @@
 
 - [Installing Net2+](https://support.whitehill.group/dwpnet2/installation.md): Our most advanced Access Control System.
 - [Configuring Your Net2+](https://support.whitehill.group/dwpnet2/configuration.md): Welcome to customization heaven. (#2)
-- [Configuring Your Net2+ Readers](https://support.whitehill.group/dwpnet2/readerconfig.md): Welcome to customization heaven. (#3)
+- [Configuring Your Net2+ Readers](https://support.whitehill.group/dwpnet2/readerconfig.md): Beep beep beeeeep, these readers need an ethernet connection.
+- [Configuring Your Net2+ Buttons](https://support.whitehill.group/dwpnet2/buttonconfig.md): Presses the button anyway.
+- [Configuring Your Net2+ Buttons](https://support.whitehill.group/dwpnet2/bellconfiguration.md): Chimes obnoxiously in your ears.
 - [Updating Your Net2+](https://support.whitehill.group/dwpnet2/updating.md): Keep the doors from closing in on you.
 - [Net2+ API](https://support.whitehill.group/dwpnet2/api.md): Control madness, again? Of course.
 
@@ -34,7 +36,8 @@
 
 - [DWProx V3 Installation](https://support.whitehill.group/dwpv3/installation.md): Our free Access Control System.
 - [Configuring Your V3](https://support.whitehill.group/dwpv3/configuration.md): Welcome to customization heaven. (#2)
-- [Configuring Your V3 Readers](https://support.whitehill.group/dwpv3/readerconfig.md): Welcome to customization heaven. (#3)
+- [Configuring Your V3 Readers](https://support.whitehill.group/dwpv3/readerconfig.md): Beep beep, I need my cards.
+- [Configuring Your V3 Buttons](https://support.whitehill.group/dwpv3/buttonconfig.md): Don't press the button, they said.
 - [Updating Your V3](https://support.whitehill.group/dwpv3/updating.md): Keep the doors from closing in on you (again.)
 - [DWProx V3 API](https://support.whitehill.group/dwpv3/api.md): Control madness? Check.
 
