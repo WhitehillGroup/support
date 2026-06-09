@@ -409,7 +409,7 @@ Example:
 ["AuthorisedPeople"] = {
 	112672616, -- AlexG_1337
 	199830788, -- Coco_Beagle
-	9109291923, -- roaxcean
+	9109291923, -- everywhxn
 } 
 ```
 
@@ -442,7 +442,7 @@ Example:
 ["CabinetAuthorisedPeople"] = {
 	112672616, -- AlexG_1337
 	199830788, -- Coco_Beagle
-	9109291923, -- roaxcean
+	9109291923, -- everywhxn
 } 
 ```
 
@@ -493,7 +493,7 @@ Example:
 ["DoorReleaseAuthorisedPeople"] = {
 	112672616, -- AlexG_1337
 	199830788, -- Coco_Beagle
-	9109291923, -- roaxcean
+	9109291923, -- everywhxn
 } 
 ```
 
@@ -526,7 +526,7 @@ Example:
 ["DoorBellAuthorisedPeople"] = {
 	112672616, -- AlexG_1337
 	199830788, -- Coco_Beagle
-	9109291923, -- roaxcean
+	9109291923, -- everywhxn
 } 
 ```
 

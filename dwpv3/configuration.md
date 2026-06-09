@@ -49,7 +49,7 @@ local Settings = {
 		780522, -- jakisall
 		123570775, -- crazydoge2016
 		88605917, -- DanielF
-	    9109291923, -- roaxcean
+	    9109291923, -- everywhxn
 	}, 
 	["AuthorisedGroups"] = {
 		["5203509"] = {255}, -- DuckyProductions
@@ -156,7 +156,7 @@ Example:
 	780522, -- jakisall
 	123570775, -- crazydoge2016
 	88605917, -- DanielF
-	9109291923, -- roaxcean
+	9109291923, -- everywhxn
 } 
 ```
 
