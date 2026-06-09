@@ -5,8 +5,8 @@ order: 96
 tags: [Configuration]
 image: /static/assets/whg_headbanner.png
 authors:
-  - name: roaxcean
-    link: https://github.com/roaxcean
+  - name: everywhxn
+    link: https://github.com/everywhxn
     avatar: https://avatars.githubusercontent.com/u/219159259
   - name: Dunbars123
     link: https://github.com/michaeldun123
@@ -427,7 +427,7 @@ Example:
 ["AuthorisedPeople"] = {
 	112672616, -- AlexG_1337
 	199830788, -- Coco_Beagle
-	9109291923, -- roaxcean
+	9109291923, -- everywhxn
 } 
 ```
 
@@ -460,7 +460,7 @@ Example:
 ["CabinetAuthorisedPeople"] = {
 	112672616, -- AlexG_1337
 	199830788, -- Coco_Beagle
-	9109291923, -- roaxcean
+	9109291923, -- everywhxn
 } 
 ```
 
@@ -513,7 +513,7 @@ Example:
 ["DoorReleaseAuthorisedPeople"] = {
 	112672616, -- AlexG_1337
 	199830788, -- Coco_Beagle
-	9109291923, -- roaxcean
+	9109291923, -- everywhxn
 } 
 ```
 
@@ -546,7 +546,7 @@ Example:
 ["DoorBellAuthorisedPeople"] = {
 	112672616, -- AlexG_1337
 	199830788, -- Coco_Beagle
-	9109291923, -- roaxcean
+	9109291923, -- everywhxn
 } 
 ```
 

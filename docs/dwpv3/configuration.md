@@ -5,8 +5,8 @@ order: 96
 tags: [Configuration]
 image: /static/assets/whg_headbanner.png
 authors:
-  - name: roaxcean
-    link: https://github.com/roaxcean
+  - name: everywhxn
+    link: https://github.com/everywhxn
     avatar: https://avatars.githubusercontent.com/u/219159259
 categories:
   - Whitehill
@@ -64,7 +64,7 @@ local Settings = {
 		780522, -- jakisall
 		123570775, -- crazydoge2016
 		88605917, -- DanielF
-	    9109291923, -- roaxcean
+	    9109291923, -- everywhxn
 	}, 
 	["AuthorisedGroups"] = {
 		["5203509"] = {255}, -- DuckyProductions
@@ -171,7 +171,7 @@ Example:
 	780522, -- jakisall
 	123570775, -- crazydoge2016
 	88605917, -- DanielF
-	9109291923, -- roaxcean
+	9109291923, -- everywhxn
 } 
 ```
 

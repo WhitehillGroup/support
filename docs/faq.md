@@ -11,8 +11,8 @@ authors:
   - name: TheCakeChicken
     link: https://github.com/TheCakeChicken
     avatar: https://avatars.githubusercontent.com/u/33702174
-  - name: roaxcean
-    link: https://github.com/roaxcean
+  - name: everywhxn
+    link: https://github.com/everywhxn
     avatar: https://avatars.githubusercontent.com/u/219159259
   - name: NotAlex7331
     link: https://github.com/NotAlex7331

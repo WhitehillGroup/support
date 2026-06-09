@@ -1,0 +1,9 @@
+heya, if you want to make more banners, install the Montserrat-Medium.ttf font,
+or download whatever suits you below
+https://fonts.google.com/specimen/Montserrat
+
+all banners use Montserrat Medium (weight 500),
+this is to keep consistency on the site
+
+thanks x
+paige (@everywhxn)

@@ -8,8 +8,8 @@ authors:
   - name: Dunbars123
     link: https://github.com/michaeldun123
     avatar: https://avatars.githubusercontent.com/u/42805814
-  - name: roaxcean
-    link: https://github.com/roaxcean
+  - name: everywhxn
+    link: https://github.com/everywhxn
     avatar: https://avatars.githubusercontent.com/u/219159259
 categories:
   - Whitehill

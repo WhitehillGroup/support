@@ -43,7 +43,7 @@ If no format exists yet, you're welcome to innovate, just make sure the followin
 To keep reviews focused, please **request reviews from the documentation maintainers**, not management.
 
 **Primary maintainers:**
-- [@roaxcean](https://github.com/roaxcean) ([@roaxcean](https://discord.com/users/1160943839591288893) on Discord) - Documentation, structure & assets,
+- [@everywhxn](https://github.com/everywhxn) ([@everywhxn](https://discord.com/users/1160943839591288893) on Discord) - Documentation, structure & assets,
 - [@TheCakeChicken](https://github.com/TheCakeChicken) ([@thecakechicken](https://discord.com/users/343081377249493044) on Discord) - Overseeing & project management.
 
 > Please avoid pinging management for PR reviews unless explicitly necessary.

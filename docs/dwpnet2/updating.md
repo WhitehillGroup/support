@@ -5,8 +5,8 @@ order: 90
 tags: [Updating]
 image: /static/assets/whg_headbanner.png
 authors:
-  - name: roaxcean
-    link: https://github.com/roaxcean
+  - name: everywhxn
+    link: https://github.com/everywhxn
     avatar: https://avatars.githubusercontent.com/u/219159259
 categories:
   - Whitehill

@@ -5,8 +5,8 @@ order: 95
 tags: [Configuration]
 image: /static/assets/whg_headbanner.png
 authors: 
-    - name: roaxcean
-      link: https://github.com/roaxcean
+    - name: everywhxn
+      link: https://github.com/everywhxn
       avatar: https://avatars.githubusercontent.com/u/219159259
 categories:
   - JSM
@@ -63,7 +63,7 @@ local Settings = {
 		["MaintenanceHatch-Users"] = { 
 			112672616, -- Example (AlexG_1337)
 			199830788, -- Example (Coco_Beagle)
-			9109291923, -- Example (roaxcean)
+			9109291923, -- Example (everywhxn)
 		},
 		["MaintenanceHatch-Groups"] = {
 			["5150453"] = {255, 254, 253}, -- Example (Whitehill)
@@ -92,7 +92,7 @@ local Settings = {
 		["StaffUsers"] = { 
 			112672616, -- Example (AlexG_1337)
 			199830788, -- Example (Coco_Beagle)
-			9109291923, -- Example (roaxcean)
+			9109291923, -- Example (everywhxn)
 		},
 		["StaffGroups"] = { 
 			["5150453"] = {255, 254, 253}, -- Example (Whitehill)
@@ -329,7 +329,7 @@ Example:
 ["MaintenanceHatch-Users"] = { 
 	112672616, -- Example (AlexG_1337)
 	199830788, -- Example (Coco_Beagle)
-	9109291923, -- Example (roaxcean)
+	9109291923, -- Example (everywhxn)
 }
 ```
 
@@ -376,7 +376,7 @@ This setting is intended to demonstration purposes only. Disabling the whitelist
 	["MaintenanceHatch-Users"] = { 
 		112672616, -- Example (AlexG_1337)
 		199830788, -- Example (Coco_Beagle)
-		9109291923, -- Example (roaxcean)
+		9109291923, -- Example (everywhxn)
 	},
 	["MaintenanceHatch-Groups"] = {
 		["5150453"] = {255, 254, 253}, -- Example (Whitehill)
@@ -574,7 +574,7 @@ Example:
 ["StaffUsers"] = {
 	112672616, -- Example (AlexG_1337)
 	199830788, -- Example (Coco_Beagle)
-	9109291923, -- Example (roaxcean)
+	9109291923, -- Example (everywhxn)
 }
 ```
 
@@ -617,7 +617,7 @@ Example:
 	["StaffUsers"] = { 
 		112672616, -- Example (AlexG_1337)
 		199830788, -- Example (Coco_Beagle)
-		9109291923, -- Example (roaxcean)
+		9109291923, -- Example (everywhxn)
 	},
 	["StaffGroups"] = { 
     	["5150453"] = {255, 254, 253}, -- Example (Whitehill)
