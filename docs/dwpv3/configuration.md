@@ -318,7 +318,7 @@ Example:
 ## Expanse Integration Settings
 
 !!!danger
-This section is dedicated to Ae Expanse by [SCADA](https://www.roblox.com/communities/5791519/Scada-Control-Systems#!/about), which you can find [here](https://www.roblox.com/games/11387612316/Scada-Product-Hub). **To use Expanse you need a separate license.**
+This section is dedicated to Ae Expanse by [SCADA](https://www.roblox.com/communities/5791519/Scada-Control-Systems#!/about), which you can find [here](https://www.roblox.com/games/11387612316/Scada-Product-Hub). **To use Expanse you need a separate licence.**
 !!!
 
 ### ExpanseEnabled

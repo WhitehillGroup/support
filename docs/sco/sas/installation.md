@@ -28,7 +28,7 @@ This can be done by visiting _Home > Game Settings > Security_ within Studio.
 For more information visit the Roblox [Creator Dashboard](https://create.roblox.com/docs/studio/game-settings#security).
 !!!
 !!!danger Important Notice
-**Scan & Shop** requires a **Self Checkout** license to function. See more on [Axon](https://axon.whitehill.group/).
+**Scan & Shop** requires a **Self Checkout** licence to function. See more on [Axon](https://axon.whitehill.group/).
 !!!
 
 ---

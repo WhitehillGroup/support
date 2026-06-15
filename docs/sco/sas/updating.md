@@ -26,7 +26,7 @@ Before getting started, download the latest version of this product from [Axon](
 This page assumes familiarity with Roblox Studio's Explorer and basic model hierarchy manipulation.
 !!!
 !!!danger Important Notice
-**Scan & Shop** requires a **Self Checkout** license to function. See more on [Axon](https://axon.whitehill.group/).
+**Scan & Shop** requires a **Self Checkout** licence to function. See more on [Axon](https://axon.whitehill.group/).
 !!!
 
 ---
