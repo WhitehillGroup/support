@@ -4,7 +4,7 @@
 
 Check out our frequently asked questions, the answer you're looking for might already be here.
 
-==- Do licenses work in Communities I don't own?
+==- Do licences work in Communities I don't own?
 No. For your products to work in games owned by Communities (formerly Groups), your account needs to be the owner. 
 
 ==- What does Pre-Order mean?
