@@ -20,7 +20,7 @@ categories:
 This product has been discontinued and is no longer supported. The information provided may be incomplete or outdated. Please refrain from contacting support regarding this product, as dedicated assistance is no longer available.
 !!!
 !!!
-Before getting started, insert the latest version of this product from [Toolbox](https://create.roblox.com/store/asset/5204715376/Acel-AOV-System) into your game.
+Before getting started, insert the latest version of this product by downloading the product [here](https://discord.com/channels/616745092279173151/1064907536358178906). You need to be in the Whitehill Group discord server to access this.
 !!!
 ---
 
