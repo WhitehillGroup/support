@@ -17,7 +17,7 @@ JSM EAS exposes a simple API for you to interact with, or get the data it's send
 ### Receiving
 
 ```lua
-workspace["JSM | Intelli-Sense EAS"].Node.Event:Connect(function(eventType: string, source: string, zone: number, player: Player): ()
+workspace["JSM | Intelli-Sense EAS"].Node.Event:Connect(function(eventType: string, source: string, zone: number, player: string): ()
 	print(player.Name, "triggered a", source, "in zone", tostring(zone));
 end);
 ```
@@ -28,7 +28,7 @@ EAS supports scripts that listen to events, and will fire them everytime it's tr
 - **eventType**: (`string`) This will always be "ALARM".
 - **source**: (`string`) Source location, will always be "Sensor" if coming from JSM EAS.
 - **zone**: (`number`) Zone number as set in the Sensor.
-- **player**: (`Player`) Player who triggered the event (shoplifting.)
+- **player**: (`string`) Player username who triggered the event (shoplifting.)
 !!!
 
 ---
@@ -45,7 +45,7 @@ Alternatively, EAS also supports listening to events, allowing you to use extern
 - **eventType**: (`string`) This will always be "ALARM".
 - **source**: (`string`) Source location, set to anything you like.
 - **zone**: (`number`) Zone number to trigger.
-- **player**: (`Player`) Player to set as the triggering person.
+- **player**: (`string`) Player username to set as the triggering person.
 !!!
 
 ---
