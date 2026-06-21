@@ -32,7 +32,7 @@ JSM EAS exposes a simple API for you to interact with, or get the data it's send
 
 ```lua
 workspace["JSM | Intelli-Sense EAS"].Node.Event:Connect(function(eventType: string, source: string, zone: number, player: string): ()
-	print(player.Name, "triggered a", source, "in zone", tostring(zone));
+	print(player, "triggered a", source, "in zone", tostring(zone));
 end);
 ```
 
