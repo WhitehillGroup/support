@@ -36,7 +36,7 @@ return Settings
 ---
 
 ### Cards
-=== `{ number }`
+=== `{ string }`
 A table of Access Levels that are whitelisted to use the reader **at any time**.
 
 ---
