@@ -8,6 +8,9 @@ authors:
   - name: everywhxn
     link: https://github.com/everywhxn
     avatar: https://avatars.githubusercontent.com/u/219159259
+  - name: cbgle
+    link: https://github.com/cbgle
+    avatar: https://avatars.githubusercontent.com/u/126525625
 categories:
   - Whitehill
   - DWProx
