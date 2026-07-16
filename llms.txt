@@ -38,7 +38,7 @@
 - [Configuring Your V3](https://support.whitehill.group/dwpv3/configuration.md): Welcome to customization heaven. (#2)
 - [Configuring Your V3 Readers](https://support.whitehill.group/dwpv3/readerconfig.md): Beep beep, I need my cards.
 - [Configuring Your V3 Buttons](https://support.whitehill.group/dwpv3/buttonconfig.md): Don't press the button, they said.
-- [Updating Your V3](https://support.whitehill.group/dwpv3/updating.md): Keep the doors from closing in on you (again.)
+- [Updating Your DWProx](https://support.whitehill.group/dwpv3/updating.md): Keep the doors from closing in on you (again.)
 - [DWProx V3 API](https://support.whitehill.group/dwpv3/api.md): Control madness? Check.
 
 ## Freestyle Drinks
