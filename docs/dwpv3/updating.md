@@ -13,14 +13,14 @@ categories:
   - DWProx
   - V3
 ---
-# Updating Your V3
+# Updating Your DWProx
 
 ![](/static/assets/banners/whg_v3update.png)
 
 Keep the doors from closing in on you (again.)
 
 !!!
-Before getting started, insert the latest version of this product from [Toolbox](https://create.roblox.com/store/asset/4998244735/DWProx-Access-Control) into your game.
+Before getting started, insert the latest version of this product from [Axon](https://axon.whitehill.group/) into your game.
 !!!
 !!!warning
 This page assumes familiarity with Roblox Studio's Explorer and basic model hierarchy manipulation.
@@ -35,8 +35,13 @@ In case anything goes south, you will always have a restore point.
 ===
 
 === Step 2 - Updating
-- From a fresh copy of V3, under `DWProx` **->** `Settings` there's a `Loader` script, copy it.
-- For every door using V3, follow the same path, and replace the old `Loader` script with the new `Loader`.
+!!!
+As of 16/07/26 the `Loader` script in DWProx v3 has been replaced by `DWProxCore`.
+If updating an older DWProx installation replace `Loader` script with the new `DWProxCore`.
+!!!
+
+- From a fresh copy of V3, under `DWProx` **->** `Settings` there's a `DWProxCore` script, copy it.
+- For every door using V3, follow the same path, and replace the old `DWProxCore` script with the new `DWProxCore`.
 
 !!!warning
 DWProx V3 doesn't have a deployment/global script. All doors/V3 installs **need to be updated manually**.
