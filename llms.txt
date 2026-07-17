@@ -66,6 +66,7 @@
 - [SelfServ SCO Installation](https://support.whitehill.group/sco/installation.md): JSM SCO, the best of the best.
 - [Add Products to your SCO](https://support.whitehill.group/sco/products.md): Mmm... scanning...
 - [Add Cards to your SCO](https://support.whitehill.group/sco/cards.md): Even more scanning, but for staff. Or you're paying..? Or you're a loyal member???
+- [Add a Custom UI to your SCO](https://support.whitehill.group/sco/uis.md): "Sorry, nope, doesn't fit the company theme."
 - [Configuring Your SelfServ SCO](https://support.whitehill.group/sco/configuration.md): Welcome to customization heaven.
 - [Configuring Your SelfServ Terminal](https://support.whitehill.group/sco/laneconfiguration.md): Welcome to a localized customization heaven.
 - [Configuring Your SCO Accounts](https://support.whitehill.group/sco/accounts.md): Welcome to customization heaven.
