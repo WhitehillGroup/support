@@ -1,7 +1,7 @@
 ---
 icon: tools
 label: Configuration
-order: 95
+order: 90
 tags: [Configuration]
 image: /static/assets/whg_headbanner.png
 authors: 

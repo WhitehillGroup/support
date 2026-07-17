@@ -1,7 +1,7 @@
 ---
 icon: download
 label: Installation
-order: 100
+order: 105
 tags: [Installation]
 image: /static/assets/whg_headbanner.png
 authors:
