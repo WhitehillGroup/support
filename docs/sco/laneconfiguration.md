@@ -1,7 +1,7 @@
 ---
 icon: tools
 label: Terminal Configuration
-order: 95
+order: 85
 tags: [Configuration]
 image: /static/assets/whg_headbanner.png
 authors: 

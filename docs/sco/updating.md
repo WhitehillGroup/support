@@ -1,7 +1,7 @@
 ---
 icon: check-circle
 label: Updating
-order: 90
+order: 75
 tags: [Updating]
 image: /static/assets/whg_headbanner.png
 authors: 

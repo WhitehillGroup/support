@@ -1,7 +1,7 @@
 ---
 icon: code
 label: API
-order: 85
+order: 70
 tags: [API]
 image: /static/assets/whg_headbanner.png
 authors:

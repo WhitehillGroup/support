@@ -1,7 +1,7 @@
 ---
 icon: tools
 label: Accounts
-order: 94
+order: 80
 tags: [Configuration]
 image: /static/assets/whg_headbanner.png
 authors: 
