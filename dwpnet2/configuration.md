@@ -30,84 +30,93 @@ Your Paxton configuration module, found under each Net2+ door `DWProx Net2+` **-
 			\/    \__,_/_/\_\\__\___/|_| |_|
 			              			Net2+	
 			              			
+		-- / System Information / -- 
+			DWProx Paxton Net2+
+			Version 2.0
+			Modelled By Crazydoge2016
+			Scripted By AlexG_1337 / Coco_Beagle / jakisall / talkera
+			Started On 03/02/21
+			Completed On 21/12/21
+	
 ]]--
 
 local Settings = {
 
-	-- / General Settings / --
+	-- / Settings / --
 	["OpenTime"] = 10,
-
-	["Accepted"] = function (): ()
+	
+	["Accepted"] = function() 
 		script.Parent.Parent:WaitForChild("DoorUnlockingAPIThings"):Fire("Open")
 	end,
-	["Return"] = function (): ()
+	["Return"] = function() -- What The Door Will Do After The Open Time
 		script.Parent.Parent:WaitForChild("DoorUnlockingAPIThings"):Fire("Close")
 	end,
-	["Denied"] = function (): ()
+	["Denied"] = function() 
 		return false
 	end,
-
+	
 	-- / Webhook Settings / --
-	["LogCorrectScans"] = false,
-	["LogIncorrectScans"] = false,
-	["LogButtonPresses"] = false,
-	["LogDoorReleases"] = false,
-
+	["LogCorrectScans"] = false, 
+	["LogIncorrectScans"] = false, 
+	["LogButtonPresses"] = false, 
+	["LogDoorReleases"] = false, 
+	
+	--// WebhookURL Moved To The Child Of This Script //--
 	["GameLogo"] = "",
-	["DoorName"] = "",
-
+	["DoorName"] = "",	
+	
 	-- / Global API Settings / --
 	["GAPI-Lock"] = true,
-	["GAPI-Fire"] = true,
-	["GAPI-Open"] = true,
+	["GAPI-Fire"] = true, 
+	["GAPI-Open"] = true, 
 	["GAPI-Hold"] = true,
-	["GAPI-ResetReleases"] = true,
+	["GAPI-ResetReleases"] = true, 
 
 	-- / Expanse Integration / --
-	["ExpanseEnabled"] = true,
+	["ExpanseEnabled"] = false, 
 	["ExpanseLocation"] = script.ExpanseIntegration.Value,
-	["ExpanseInterfaceID"] = 1,
-
-	["DisableConsoleOutputs"] = false,
-
+	["ExpanseInterfaceID"] = 1, 
+	
+	["DisableConsoleOutputs"] = false, 
+	
 	["CabinetMaximumAngle"] = -120,
-
+	
 	-- / Whitelist Settings / -- 
-	["AuthorisedPeople"] = {
-		112672616, -- AlexG_1337
-		199830788, -- Coco_Beagle
+	["AuthorisedPeople"] = { 
+		112672616,
+		199830788, 
 	}, 
-	["AuthorisedGroups"] = {
-		["5203509"] = {255}, -- DuckyProductions
-		["5150453"] = {255, 254, 253}, -- Whitehill
+	["AuthorisedGroups"] = { 
+		["5203509"] = {255},
+		["5150453"] = {255, 254, 253}, 
 	},
 	-----------------------------------------------------------------
 	["CabinetAuthorisedPeople"] = {
-		112672616, -- AlexG_1337
-		199830788, -- Coco_Beagle
+		112672616, 
+		199830788, 
 	}, 
 	["CabinetAuthorisedGroups"] = {
-		["5203509"] = {255}, -- DuckyProductions
-		["5150453"] = {255, 254, 253}, -- Whitehill
+		["5203509"] = {255},
+		["5150453"] = {255, 254, 253},
 	},
-	["DisableCabinetWhitelist"] = false,
+	["DisableCabinetWhitelist"] = false, 
 	-----------------------------------------------------------------
-	["DoorReleaseAuthorisedPeople"] = {
-		112672616, -- AlexG_1337
-		199830788, -- Coco_Beagle
+	["DoorReleaseAuthorisedPeople"] = { 
+		112672616,
+		199830788, 
 	},
-	["DoorReleaseAuthorisedGroups"] = {
-		["5203509"] = {255}, -- DuckyProductions
-		["5150453"] = {255, 254, 253}, -- Whitehill
+	["DoorReleaseAuthorisedGroups"] = { 
+		["5203509"] = {255}, 
+		["5150453"] = {255, 254, 253},
 	},
 	-----------------------------------------------------------------
-	["DoorBellAuthorisedPeople"] = {
-		112672616, -- AlexG_1337
-		199830788, -- Coco_Beagle
+	["DoorBellAuthorisedPeople"] = { 
+		112672616,
+		199830788, 
 	},
-	["DoorBellAuthorisedGroups"] = {
-		["5203509"] = {255}, -- DuckyProductions
-		["5150453"] = {255, 254, 253}, -- Whitehill
+	["DoorBellAuthorisedGroups"] = { 
+		["5203509"] = {255}, 
+		["5150453"] = {255, 254, 253}, 
 	},
 	-----------------------------------------------------------------
 }

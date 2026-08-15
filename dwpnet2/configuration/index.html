@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.6.0.837625980154">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.6.0.840108477657">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 4.6.0">
@@ -44,12 +44,12 @@
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link id="retype-favicon" rel="icon" href="../../favicon.ico" />
-    <link href="../../resources/css/retype.css?v=4.6.0.837625980154" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=4.6.0.840108477657" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=4.6.0.837625980154" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=4.6.0.840108477657" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=4.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.6.0.837625980154" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=4.6.0.837625980154" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.6.0.840108477657" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=4.6.0.840108477657" defer></script>
 
     <!-- do not modify this pls, i beg you -->
     <!-- change ths css in /docs/static/whitehill.css -->
@@ -284,84 +284,93 @@
 			\/    \__,_/_/\_\\__\___/|_| |_|
 			              			Net2+	
 			              			
+		-- / System Information / -- 
+			DWProx Paxton Net2+
+			Version 2.0
+			Modelled By Crazydoge2016
+			Scripted By AlexG_1337 / Coco_Beagle / jakisall / talkera
+			Started On 03/02/21
+			Completed On 21/12/21
+	
 ]]--
 
 local Settings = {
 
-	-- / General Settings / --
+	-- / Settings / --
 	[&quot;OpenTime&quot;] = 10,
-
-	[&quot;Accepted&quot;] = function (): ()
+	
+	[&quot;Accepted&quot;] = function() 
 		script.Parent.Parent:WaitForChild(&quot;DoorUnlockingAPIThings&quot;):Fire(&quot;Open&quot;)
 	end,
-	[&quot;Return&quot;] = function (): ()
+	[&quot;Return&quot;] = function() -- What The Door Will Do After The Open Time
 		script.Parent.Parent:WaitForChild(&quot;DoorUnlockingAPIThings&quot;):Fire(&quot;Close&quot;)
 	end,
-	[&quot;Denied&quot;] = function (): ()
+	[&quot;Denied&quot;] = function() 
 		return false
 	end,
-
+	
 	-- / Webhook Settings / --
-	[&quot;LogCorrectScans&quot;] = false,
-	[&quot;LogIncorrectScans&quot;] = false,
-	[&quot;LogButtonPresses&quot;] = false,
-	[&quot;LogDoorReleases&quot;] = false,
-
+	[&quot;LogCorrectScans&quot;] = false, 
+	[&quot;LogIncorrectScans&quot;] = false, 
+	[&quot;LogButtonPresses&quot;] = false, 
+	[&quot;LogDoorReleases&quot;] = false, 
+	
+	--// WebhookURL Moved To The Child Of This Script //--
 	[&quot;GameLogo&quot;] = &quot;&quot;,
-	[&quot;DoorName&quot;] = &quot;&quot;,
-
+	[&quot;DoorName&quot;] = &quot;&quot;,	
+	
 	-- / Global API Settings / --
 	[&quot;GAPI-Lock&quot;] = true,
-	[&quot;GAPI-Fire&quot;] = true,
-	[&quot;GAPI-Open&quot;] = true,
+	[&quot;GAPI-Fire&quot;] = true, 
+	[&quot;GAPI-Open&quot;] = true, 
 	[&quot;GAPI-Hold&quot;] = true,
-	[&quot;GAPI-ResetReleases&quot;] = true,
+	[&quot;GAPI-ResetReleases&quot;] = true, 
 
 	-- / Expanse Integration / --
-	[&quot;ExpanseEnabled&quot;] = true,
+	[&quot;ExpanseEnabled&quot;] = false, 
 	[&quot;ExpanseLocation&quot;] = script.ExpanseIntegration.Value,
-	[&quot;ExpanseInterfaceID&quot;] = 1,
-
-	[&quot;DisableConsoleOutputs&quot;] = false,
-
+	[&quot;ExpanseInterfaceID&quot;] = 1, 
+	
+	[&quot;DisableConsoleOutputs&quot;] = false, 
+	
 	[&quot;CabinetMaximumAngle&quot;] = -120,
-
+	
 	-- / Whitelist Settings / -- 
-	[&quot;AuthorisedPeople&quot;] = {
-		112672616, -- AlexG_1337
-		199830788, -- Coco_Beagle
+	[&quot;AuthorisedPeople&quot;] = { 
+		112672616,
+		199830788, 
 	}, 
-	[&quot;AuthorisedGroups&quot;] = {
-		[&quot;5203509&quot;] = {255}, -- DuckyProductions
-		[&quot;5150453&quot;] = {255, 254, 253}, -- Whitehill
+	[&quot;AuthorisedGroups&quot;] = { 
+		[&quot;5203509&quot;] = {255},
+		[&quot;5150453&quot;] = {255, 254, 253}, 
 	},
 	-----------------------------------------------------------------
 	[&quot;CabinetAuthorisedPeople&quot;] = {
-		112672616, -- AlexG_1337
-		199830788, -- Coco_Beagle
+		112672616, 
+		199830788, 
 	}, 
 	[&quot;CabinetAuthorisedGroups&quot;] = {
-		[&quot;5203509&quot;] = {255}, -- DuckyProductions
-		[&quot;5150453&quot;] = {255, 254, 253}, -- Whitehill
+		[&quot;5203509&quot;] = {255},
+		[&quot;5150453&quot;] = {255, 254, 253},
 	},
-	[&quot;DisableCabinetWhitelist&quot;] = false,
+	[&quot;DisableCabinetWhitelist&quot;] = false, 
 	-----------------------------------------------------------------
-	[&quot;DoorReleaseAuthorisedPeople&quot;] = {
-		112672616, -- AlexG_1337
-		199830788, -- Coco_Beagle
+	[&quot;DoorReleaseAuthorisedPeople&quot;] = { 
+		112672616,
+		199830788, 
 	},
-	[&quot;DoorReleaseAuthorisedGroups&quot;] = {
-		[&quot;5203509&quot;] = {255}, -- DuckyProductions
-		[&quot;5150453&quot;] = {255, 254, 253}, -- Whitehill
+	[&quot;DoorReleaseAuthorisedGroups&quot;] = { 
+		[&quot;5203509&quot;] = {255}, 
+		[&quot;5150453&quot;] = {255, 254, 253},
 	},
 	-----------------------------------------------------------------
-	[&quot;DoorBellAuthorisedPeople&quot;] = {
-		112672616, -- AlexG_1337
-		199830788, -- Coco_Beagle
+	[&quot;DoorBellAuthorisedPeople&quot;] = { 
+		112672616,
+		199830788, 
 	},
-	[&quot;DoorBellAuthorisedGroups&quot;] = {
-		[&quot;5203509&quot;] = {255}, -- DuckyProductions
-		[&quot;5150453&quot;] = {255, 254, 253}, -- Whitehill
+	[&quot;DoorBellAuthorisedGroups&quot;] = { 
+		[&quot;5203509&quot;] = {255}, 
+		[&quot;5150453&quot;] = {255, 254, 253}, 
 	},
 	-----------------------------------------------------------------
 }
