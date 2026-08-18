@@ -22,7 +22,11 @@ In case anything goes south, you will always have a restore point.
 === Step 2 - Updating
 !!!
 As of 17/08/26 the `Loader` script in Turnstiles has been replaced by `KT-Script`.
-If updating an older Turnstiles installation, replace `Loader` script with the new `KT-Script`.
+If updating an older Turnstiles installation, delete the `Loader` script under `Settings` and place the `KT-Script` under the Turnstile model.
+
+!!!warning Heads Up
+Do not replace the `Loader` script with the `KT-Script`. As 17/08/2026, the new Loader should be placed directly under your Turnstile model, as explained above.
+
 !!!
 
 - From a fresh copy of Turnstiles, under each turnstile there's a `KT-Script` script, copy it.
