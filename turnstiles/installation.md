@@ -4,9 +4,7 @@
 
 Turnstiles made to last. Effectiveness in simplicity.
 
-!!!
-Before getting started, insert the latest version of this product from [Toolbox](https://create.roblox.com/store/asset/6821432149/KONE-Turnstiles) into your game.
-!!!
+!!! Before getting started, download the latest version of this product from Axon. !!!
 !!!warning
 Ensure HTTP services are enabled before proceeding.
 This can be done by visiting _Home > Game Settings > Security_ within Studio.
@@ -16,14 +14,15 @@ For more information visit the Roblox [Creator Dashboard](https://create.roblox.
 ---
 
 === 1. Insert your file.
-This product doesn't use Axon licensing, it means it can be inserted via [Toolbox](https://create.roblox.com/store/asset/6821432149/KONE-Turnstiles) directly in Studio.
+To import your file, simply drag the product file into Roblox Studio once your game is fully loaded.
+Alternatively, you can use the Explorer context menu by right-clicking and selecting **Insert > Insert From File**.
 ===
 
 === 2. Placement & Positioning.
 You are free to move, rotate and scale the turnstiles to your liking.
 
 !!!info
-The turnstile models aren't folder dependant, allowing you to change their placement in Explorer. Please note that changing the model itself can break the system.
+The turnstile models aren't folder dependent, allowing you to change their placement in Explorer. Please note that changing the model itself can break the system.
 !!!
 ===
 
