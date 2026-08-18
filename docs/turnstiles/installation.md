@@ -19,7 +19,9 @@ categories:
 
 Turnstiles made to last. Effectiveness in simplicity.
 
-!!! Before getting started, download the latest version of this product from Axon. !!!
+!!!
+Before getting started, download the latest version of this product from [Axon](https://axon.whitehill.group).
+!!!
 !!!warning
 Ensure HTTP services are enabled before proceeding.
 This can be done by visiting _Home > Game Settings > Security_ within Studio.
