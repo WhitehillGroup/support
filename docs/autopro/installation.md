@@ -24,6 +24,13 @@ AutoPro, an automatic door system designed for convenience and efficiency, provi
 !!!
 Before getting started, download the latest version of this product from [Axon](https://axon.whitehill.group).
 !!!
+
+!!!info
+There are 2 versions of this product. Before you download the file, decide what you want.
+Whitehill AutoPro: The base model.
+Whitehill AutoPro with DWProx v3: The base model with DWProx v3 already setup.
+!!!
+
 !!!warning
 Ensure HTTP services are enabled before proceeding.
 This can be done by visiting _Home > Game Settings > Security_ within Studio.
