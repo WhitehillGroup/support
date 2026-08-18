@@ -38,7 +38,7 @@
 - [Configuring Your V3](https://support.whitehill.group/dwpv3/configuration.md): Welcome to customization heaven. (#2)
 - [Configuring Your V3 Readers](https://support.whitehill.group/dwpv3/readerconfig.md): Beep beep, I need my cards.
 - [Configuring Your V3 Buttons](https://support.whitehill.group/dwpv3/buttonconfig.md): Don't press the button, they said.
-- [Updating Your DWProx](https://support.whitehill.group/dwpv3/updating.md): Keep the doors from closing in on you (again.)
+- [Updating Your V3](https://support.whitehill.group/dwpv3/updating.md): Keep the doors from closing in on you (again.)
 - [DWProx V3 API](https://support.whitehill.group/dwpv3/api.md): Control madness? Check.
 
 ## Freestyle Drinks
@@ -81,6 +81,7 @@
 
 ## Turnstiles
 
-- [KONE Turnstiles Installation](https://support.whitehill.group/turnstiles/installation.md): Turnstiles made to last. Effectiveness in simplicity.
+- [Turnstiles Installation](https://support.whitehill.group/turnstiles/installation.md): Turnstiles made to last. Effectiveness in simplicity.
 - [Configuring Your Turnstiles](https://support.whitehill.group/turnstiles/configuration.md): Make them call a lift, or change which card is authorized... Among others!
-- [KONE Turnstiles API](https://support.whitehill.group/turnstiles/api.md): Can you lock the turnstiles? After the alarm goes off? And easily? Yes, yes, and yes!
+- [Turnstiles API](https://support.whitehill.group/turnstiles/api.md): Can you lock the turnstiles? After the alarm goes off? And easily? Yes, yes, and yes!
+- [Updating Your KONE Turnstiles](https://support.whitehill.group/turnstiles/updating.md): Keep Turnstiles turning.

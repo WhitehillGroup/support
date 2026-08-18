@@ -1,4 +1,4 @@
-# KONE Turnstiles Installation
+# Turnstiles Installation
 
 ![](/static/assets/banners/whg_turnstilesinstall.png)
 

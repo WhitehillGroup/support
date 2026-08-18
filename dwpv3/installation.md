@@ -5,13 +5,19 @@
 Our free Access Control System.
 
 !!!
-Before getting started, insert the latest version of this product from [Toolbox](https://create.roblox.com/store/asset/4998244735/DWProx-Access-Control) into your game.
+Before getting started, download the latest version of this product from [Axon](https://axon.whitehill.group).
+!!!
+!!!warning
+Ensure HTTP services are enabled before proceeding.
+This can be done by visiting _Home > Game Settings > Security_ within Studio.
+For more information visit the Roblox [Creator Dashboard](https://create.roblox.com/docs/studio/game-settings#security).
 !!!
 
 ---
 
 === 1. Insert your file.
-This product is free to use, it means it can be inserted via [Toolbox](https://create.roblox.com/store/asset/4998244735/DWProx-Access-Control) directly in Studio.
+To import your file, simply drag the product file into Roblox Studio once your game is fully loaded.
+Alternatively, you can use the Explorer context menu by right-clicking and selecting **Insert > Insert From File**.
 ===
 
 === 2. Placement & Positioning.
