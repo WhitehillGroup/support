@@ -16,7 +16,7 @@ categories:
   - DWProx
   - V3
 ---
-# Updating Your DWProx
+# Updating Your V3
 
 ![](/static/assets/banners/whg_v3update.png)
 
@@ -40,7 +40,7 @@ In case anything goes south, you will always have a restore point.
 === Step 2 - Updating
 !!!
 As of 16/07/26 the `Loader` script in DWProx v3 has been replaced by `DWProxCore`.
-If updating an older DWProx installation replace `Loader` script with the new `DWProxCore`.
+If updating an older DWProx installation, replace `Loader` script with the new `DWProxCore`.
 !!!
 
 - From a fresh copy of V3, under `DWProx` **->** `Settings` there's a `DWProxCore` script, copy it.

@@ -8,12 +8,15 @@ authors:
   - name: everywhxn
     link: https://github.com/everywhxn
     avatar: https://avatars.githubusercontent.com/u/219159259
+  - name: s3ntricall
+    link: https://github.com/s3ntricall
+    avatar: https://avatars.githubusercontent.com/u/211473986
 categories:
   - Whitehill
   - DWProx
   - KONE Turnstiles
 ---
-# KONE Turnstiles Installation
+# Turnstiles Installation
 
 ![](/static/assets/banners/whg_turnstilesinstall.png)
 

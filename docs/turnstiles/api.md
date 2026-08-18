@@ -13,7 +13,7 @@ categories:
   - DWProx
   - KONE Turnstiles
 ---
-# KONE Turnstiles API
+# Turnstiles API
 
 ![](/static/assets/banners/whg_turnstilesapi.png)
 
