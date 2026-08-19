@@ -8,6 +8,9 @@ authors:
     - name: everywhxn
       link: https://github.com/everywhxn
       avatar: https://avatars.githubusercontent.com/u/219159259
+    - name: raadtotheraad
+      link: https://github.com/raadtotheraad
+      avatar: https://avatars.githubusercontent.com/u/149825178
 categories:
   - Whitehill
   - DWProx
@@ -37,10 +40,10 @@ In case anything goes south, you will always have a restore point.
 === Step 2 - Updating
 !!!
 As of 17/08/26 the `Loader` script in Turnstiles has been replaced by `KT-Script`.
-If updating an older Turnstiles installation, delete the `Loader` script under `Settings` and place the `KT-Script` under the Turnstile model.
+If updating an older Turnstile installation, delete the `Loader` script under `Settings` and place the `KT-Script` under the Turnstile model.
 
 !!!warning Heads Up
-Do not replace the `Loader` script with the `KT-Script`. As 17/08/2026, the new Loader should be placed directly under your Turnstile model, as explained above.
+Do not replace the `Loader` script with the `KT-Script`. As of 17/08/2026, the new Loader should be placed directly under your Turnstile model, as explained above.
 
 
 !!!
